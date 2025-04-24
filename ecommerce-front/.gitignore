@@ -1,0 +1,16 @@
+# Dependency folders
+node_modules/
+vendor/
+
+# Build output
+dist/
+build/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs & temp files
+*.log
+*.tmp
+.env
